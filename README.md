@@ -10,5 +10,3 @@ The application uses a custom Person class to represent individuals in the famil
 This application serves as a simple example of how tree data structures can be used to represent hierarchical relationships, such as family structures.
 ## 4.HOW DOES IT CONTRIBUTE TO YOU OR TO THECOMMUNITY?
 This application can help beginners understand the concepts of tree data structures and their applications in a practical way. It can also be a starting point for building more complex applications that require hierarchical data organization.
-![4b1bda8f-b5b7-40b8-a228-da21fd7558c4](https://github.com/user-attachments/assets/8c42b167-3186-4d21-94ff-b434df1d3d28)
-![d277576e-6e5f-417f-a81d-2f3baec004c2](https://github.com/user-attachments/assets/85fe97a2-1ec7-414e-a57c-c7f3626bd413)
